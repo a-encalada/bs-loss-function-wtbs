@@ -1,0 +1,288 @@
+[Tue 19 May 2026 12:14:19 -05] Starting training on compute-0-2.hpc.cedia.edu.ec...
+Epoch 1 - Loss: 0.2352 - L_BS: 0.3005 - C_Loc: 0.2279 - Beta: 0.10 - Dice: 43.28, Prec: 61.20, Rec: 44.19, HD95: 163.97, ASSD: 53.58, IPE: 0.44, Mem: 10.87
+Val. Loss: 0.2129, L_BS: 0.2028, C_Loc: 0.2140, Val. DSC: 57.64, Val. Precision: 53.26, Val. Recall: 71.53, Val. HD95: 196.80, Val. ASSD: 47.28, Val. IPE: 1.60, Val. Mem: 6.42
+Model saved successfully!Model saved successfully!
+
+Model saved successfully!
+Model saved successfully!
+Epoch 2 - Loss: 0.1838 - L_BS: 0.2090 - C_Loc: 0.1810 - Beta: 0.10 - Dice: 58.01, Prec: 67.78, Rec: 58.20, HD95: 123.39, ASSD: 33.62, IPE: 0.14, Mem: 10.40
+Val. Loss: 0.2313, L_BS: 0.2478, C_Loc: 0.2295, Val. DSC: 50.19, Val. Precision: 58.27, Val. Recall: 60.16, Val. HD95: 184.80, Val. ASSD: 51.75, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 3 - Loss: 0.1694 - L_BS: 0.1781 - C_Loc: 0.1685 - Beta: 0.10 - Dice: 62.32, Prec: 69.32, Rec: 64.21, HD95: 109.66, ASSD: 30.30, IPE: 0.12, Mem: 10.40
+Val. Loss: 0.1290, L_BS: 0.1515, C_Loc: 0.1266, Val. DSC: 68.12, Val. Precision: 81.46, Val. Recall: 63.90, Val. HD95: 80.33, Val. ASSD: 24.40, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Epoch 4 - Loss: 0.1351 - L_BS: 0.1423 - C_Loc: 0.1343 - Beta: 0.10 - Dice: 68.87, Prec: 74.63, Rec: 69.70, HD95: 91.14, ASSD: 24.15, IPE: 0.12, Mem: 10.40
+Val. Loss: 0.1239, L_BS: 0.1474, C_Loc: 0.1213, Val. DSC: 71.15, Val. Precision: 88.56, Val. Recall: 62.83, Val. HD95: 74.41, Val. ASSD: 23.94, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!Model saved successfully!
+
+Model saved successfully!
+Model saved successfully!
+Epoch 5 - Loss: 0.1077 - L_BS: 0.1180 - C_Loc: 0.1065 - Beta: 0.10 - Dice: 74.21, Prec: 76.78, Rec: 75.81, HD95: 85.25, ASSD: 21.54, IPE: 0.10, Mem: 10.40
+Val. Loss: 0.2302, L_BS: 0.3791, C_Loc: 0.2136, Val. DSC: 42.69, Val. Precision: 69.11, Val. Recall: 35.71, Val. HD95: 131.67, Val. ASSD: 38.00, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 6 - Loss: 0.0939 - L_BS: 0.1041 - C_Loc: 0.0928 - Beta: 0.10 - Dice: 77.51, Prec: 80.18, Rec: 78.24, HD95: 80.77, ASSD: 19.48, IPE: 0.11, Mem: 10.40
+Val. Loss: 0.0966, L_BS: 0.1119, C_Loc: 0.0949, Val. DSC: 76.73, Val. Precision: 87.19, Val. Recall: 71.15, Val. HD95: 72.10, Val. ASSD: 18.52, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!Model saved successfully!
+
+Model saved successfully!
+Model saved successfully!
+Epoch 7 - Loss: 0.0850 - L_BS: 0.0963 - C_Loc: 0.0838 - Beta: 0.10 - Dice: 78.87, Prec: 81.68, Rec: 79.65, HD95: 82.08, ASSD: 19.15, IPE: 0.11, Mem: 10.40
+Val. Loss: 0.0725, L_BS: 0.0798, C_Loc: 0.0717, Val. DSC: 81.48, Val. Precision: 93.02, Val. Recall: 74.99, Val. HD95: 69.05, Val. ASSD: 16.21, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Epoch 8 - Loss: 0.0695 - L_BS: 0.0804 - C_Loc: 0.0683 - Beta: 0.10 - Dice: 81.98, Prec: 83.77, Rec: 83.01, HD95: 72.02, ASSD: 16.15, IPE: 0.11, Mem: 10.40
+Val. Loss: 0.0525, L_BS: 0.0652, C_Loc: 0.0511, Val. DSC: 85.45, Val. Precision: 85.72, Val. Recall: 86.77, Val. HD95: 62.87, Val. ASSD: 13.35, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!Model saved successfully!
+
+Model saved successfully!
+Model saved successfully!
+Epoch 9 - Loss: 0.0606 - L_BS: 0.0657 - C_Loc: 0.0601 - Beta: 0.10 - Dice: 85.26, Prec: 86.25, Rec: 86.91, HD95: 63.25, ASSD: 13.58, IPE: 0.11, Mem: 10.40
+Val. Loss: 0.0458, L_BS: 0.0565, C_Loc: 0.0446, Val. DSC: 87.32, Val. Precision: 87.04, Val. Recall: 89.04, Val. HD95: 64.77, Val. ASSD: 12.71, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!Model saved successfully!
+
+Model saved successfully!
+Model saved successfully!
+Epoch 10 - Loss: 0.0558 - L_BS: 0.0634 - C_Loc: 0.0550 - Beta: 0.10 - Dice: 85.88, Prec: 87.56, Rec: 87.04, HD95: 63.08, ASSD: 13.31, IPE: 0.11, Mem: 10.40
+Val. Loss: 0.0466, L_BS: 0.0535, C_Loc: 0.0458, Val. DSC: 87.73, Val. Precision: 90.56, Val. Recall: 86.41, Val. HD95: 49.27, Val. ASSD: 10.35, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 11 - Loss: 0.0568 - L_BS: 0.0620 - C_Loc: 0.0562 - Beta: 0.10 - Dice: 86.02, Prec: 87.25, Rec: 87.22, HD95: 63.27, ASSD: 12.80, IPE: 0.12, Mem: 10.40
+Val. Loss: 0.0452, L_BS: 0.0531, C_Loc: 0.0443, Val. DSC: 88.20, Val. Precision: 85.02, Val. Recall: 93.16, Val. HD95: 74.61, Val. ASSD: 13.48, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!Model saved successfully!Model saved successfully!
+
+
+Model saved successfully!
+Epoch 12 - Loss: 0.0481 - L_BS: 0.0579 - C_Loc: 0.0470 - Beta: 0.10 - Dice: 87.70, Prec: 88.29, Rec: 89.12, HD95: 55.68, ASSD: 11.66, IPE: 0.11, Mem: 10.40
+Val. Loss: 0.0556, L_BS: 0.0493, C_Loc: 0.0563, Val. DSC: 88.84, Val. Precision: 85.81, Val. Recall: 94.80, Val. HD95: 69.79, Val. ASSD: 13.82, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 13 - Loss: 0.0448 - L_BS: 0.0494 - C_Loc: 0.0443 - Beta: 0.10 - Dice: 89.08, Prec: 90.16, Rec: 89.78, HD95: 50.50, ASSD: 10.26, IPE: 0.11, Mem: 10.40
+Val. Loss: 0.0376, L_BS: 0.0433, C_Loc: 0.0369, Val. DSC: 90.11, Val. Precision: 87.82, Val. Recall: 94.08, Val. HD95: 58.59, Val. ASSD: 10.53, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Epoch 14 - Loss: 0.0360 - L_BS: 0.0413 - C_Loc: 0.0355 - Beta: 0.10 - Dice: 90.94, Prec: 91.61, Rec: 91.69, HD95: 46.49, ASSD: 8.94, IPE: 0.11, Mem: 10.40
+Val. Loss: 0.0424, L_BS: 0.0423, C_Loc: 0.0424, Val. DSC: 89.59, Val. Precision: 95.92, Val. Recall: 85.03, Val. HD95: 36.60, Val. ASSD: 8.33, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 15 - Loss: 0.0379 - L_BS: 0.0398 - C_Loc: 0.0377 - Beta: 0.10 - Dice: 91.06, Prec: 91.35, Rec: 92.25, HD95: 53.64, ASSD: 10.06, IPE: 0.11, Mem: 10.40
+Val. Loss: 0.0336, L_BS: 0.0428, C_Loc: 0.0326, Val. DSC: 90.19, Val. Precision: 89.73, Val. Recall: 91.73, Val. HD95: 62.81, Val. ASSD: 11.28, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Epoch 16 - Loss: 0.0353 - L_BS: 0.0399 - C_Loc: 0.0348 - Beta: 0.10 - Dice: 91.29, Prec: 91.87, Rec: 92.13, HD95: 47.55, ASSD: 9.00, IPE: 0.11, Mem: 10.40
+Val. Loss: 0.0286, L_BS: 0.0324, C_Loc: 0.0282, Val. DSC: 92.81, Val. Precision: 91.37, Val. Recall: 95.42, Val. HD95: 54.37, Val. ASSD: 9.10, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Epoch 17 - Loss: 0.0351 - L_BS: 0.0415 - C_Loc: 0.0344 - Beta: 0.10 - Dice: 91.25, Prec: 91.82, Rec: 92.41, HD95: 47.91, ASSD: 9.19, IPE: 0.11, Mem: 10.40
+Val. Loss: 0.0225, L_BS: 0.0321, C_Loc: 0.0215, Val. DSC: 93.00, Val. Precision: 93.47, Val. Recall: 93.07, Val. HD95: 45.58, Val. ASSD: 7.77, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Epoch 18 - Loss: 0.0321 - L_BS: 0.0377 - C_Loc: 0.0315 - Beta: 0.10 - Dice: 91.99, Prec: 92.52, Rec: 92.98, HD95: 47.43, ASSD: 8.79, IPE: 0.10, Mem: 10.40
+Val. Loss: 0.0253, L_BS: 0.0319, C_Loc: 0.0246, Val. DSC: 92.82, Val. Precision: 93.50, Val. Recall: 93.20, Val. HD95: 40.89, Val. ASSD: 7.42, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 19 - Loss: 0.0287 - L_BS: 0.0325 - C_Loc: 0.0282 - Beta: 0.10 - Dice: 93.20, Prec: 93.31, Rec: 94.34, HD95: 42.12, ASSD: 7.79, IPE: 0.11, Mem: 10.40
+Val. Loss: 0.0245, L_BS: 0.0274, C_Loc: 0.0241, Val. DSC: 94.07, Val. Precision: 92.27, Val. Recall: 96.66, Val. HD95: 53.41, Val. ASSD: 8.96, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 20 - Loss: 0.0264 - L_BS: 0.0286 - C_Loc: 0.0261 - Beta: 0.10 - Dice: 93.88, Prec: 94.21, Rec: 94.55, HD95: 41.87, ASSD: 7.45, IPE: 0.10, Mem: 10.40
+Val. Loss: 0.0183, L_BS: 0.0236, C_Loc: 0.0177, Val. DSC: 95.20, Val. Precision: 95.77, Val. Recall: 95.18, Val. HD95: 26.77, Val. ASSD: 4.98, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Epoch 21 - Loss: 0.0278 - L_BS: 0.0286 - C_Loc: 0.0277 - Beta: 0.10 - Dice: 93.84, Prec: 93.94, Rec: 94.82, HD95: 43.68, ASSD: 8.05, IPE: 0.10, Mem: 10.40
+Val. Loss: 0.0165, L_BS: 0.0209, C_Loc: 0.0160, Val. DSC: 95.62, Val. Precision: 94.82, Val. Recall: 97.05, Val. HD95: 24.61, Val. ASSD: 4.77, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!
+Model saved successfully!Model saved successfully!
+
+Model saved successfully!
+Epoch 22 - Loss: 0.0267 - L_BS: 0.0295 - C_Loc: 0.0263 - Beta: 0.10 - Dice: 94.09, Prec: 94.56, Rec: 94.98, HD95: 41.67, ASSD: 7.62, IPE: 0.10, Mem: 10.40
+Val. Loss: 0.0161, L_BS: 0.0194, C_Loc: 0.0158, Val. DSC: 95.82, Val. Precision: 96.46, Val. Recall: 95.87, Val. HD95: 33.04, Val. ASSD: 6.06, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Epoch 23 - Loss: 0.0217 - L_BS: 0.0258 - C_Loc: 0.0212 - Beta: 0.10 - Dice: 94.89, Prec: 95.10, Rec: 95.72, HD95: 38.28, ASSD: 6.75, IPE: 0.10, Mem: 10.40
+Val. Loss: 0.0128, L_BS: 0.0173, C_Loc: 0.0123, Val. DSC: 96.46, Val. Precision: 96.59, Val. Recall: 96.74, Val. HD95: 30.25, Val. ASSD: 5.12, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!
+Model saved successfully!Model saved successfully!
+
+Model saved successfully!
+Epoch 24 - Loss: 0.0205 - L_BS: 0.0246 - C_Loc: 0.0200 - Beta: 0.10 - Dice: 95.27, Prec: 95.57, Rec: 96.11, HD95: 35.90, ASSD: 6.12, IPE: 0.10, Mem: 10.40
+Val. Loss: 0.0123, L_BS: 0.0159, C_Loc: 0.0119, Val. DSC: 96.73, Val. Precision: 97.48, Val. Recall: 96.53, Val. HD95: 28.33, Val. ASSD: 4.76, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Epoch 25 - Loss: 0.0238 - L_BS: 0.0274 - C_Loc: 0.0234 - Beta: 0.10 - Dice: 94.66, Prec: 95.04, Rec: 95.62, HD95: 37.19, ASSD: 6.85, IPE: 0.10, Mem: 10.40
+Val. Loss: 0.0120, L_BS: 0.0149, C_Loc: 0.0116, Val. DSC: 97.07, Val. Precision: 97.35, Val. Recall: 97.17, Val. HD95: 18.71, Val. ASSD: 3.73, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Epoch 26 - Loss: 0.0209 - L_BS: 0.0232 - C_Loc: 0.0206 - Beta: 0.10 - Dice: 95.21, Prec: 95.33, Rec: 96.02, HD95: 37.41, ASSD: 6.51, IPE: 0.10, Mem: 10.40
+Val. Loss: 0.0180, L_BS: 0.0173, C_Loc: 0.0181, Val. DSC: 96.18, Val. Precision: 97.70, Val. Recall: 95.13, Val. HD95: 27.20, Val. ASSD: 5.28, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 27 - Loss: 0.0168 - L_BS: 0.0178 - C_Loc: 0.0167 - Beta: 0.10 - Dice: 96.32, Prec: 96.56, Rec: 96.66, HD95: 32.71, ASSD: 5.47, IPE: 0.10, Mem: 10.40
+Val. Loss: 0.0082, L_BS: 0.0120, C_Loc: 0.0078, Val. DSC: 97.72, Val. Precision: 97.45, Val. Recall: 98.17, Val. HD95: 24.94, Val. ASSD: 4.52, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Epoch 28 - Loss: 0.0133 - L_BS: 0.0162 - C_Loc: 0.0130 - Beta: 0.10 - Dice: 96.87, Prec: 96.94, Rec: 97.37, HD95: 25.97, ASSD: 4.60, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0087, L_BS: 0.0126, C_Loc: 0.0083, Val. DSC: 97.44, Val. Precision: 97.64, Val. Recall: 97.60, Val. HD95: 17.06, Val. ASSD: 3.62, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 29 - Loss: 0.0165 - L_BS: 0.0207 - C_Loc: 0.0160 - Beta: 0.10 - Dice: 96.06, Prec: 96.07, Rec: 96.84, HD95: 31.17, ASSD: 5.45, IPE: 0.10, Mem: 10.40
+Val. Loss: 0.0082, L_BS: 0.0122, C_Loc: 0.0078, Val. DSC: 97.70, Val. Precision: 97.97, Val. Recall: 97.61, Val. HD95: 15.61, Val. ASSD: 3.14, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 30 - Loss: 0.0140 - L_BS: 0.0170 - C_Loc: 0.0136 - Beta: 0.10 - Dice: 96.84, Prec: 97.19, Rec: 97.16, HD95: 26.36, ASSD: 4.64, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0126, L_BS: 0.0149, C_Loc: 0.0124, Val. DSC: 96.83, Val. Precision: 97.40, Val. Recall: 96.61, Val. HD95: 41.97, Val. ASSD: 6.44, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 31 - Loss: 0.0171 - L_BS: 0.0196 - C_Loc: 0.0168 - Beta: 0.10 - Dice: 96.19, Prec: 96.43, Rec: 96.99, HD95: 32.69, ASSD: 5.93, IPE: 0.10, Mem: 10.40
+Val. Loss: 0.0111, L_BS: 0.0123, C_Loc: 0.0109, Val. DSC: 97.59, Val. Precision: 97.49, Val. Recall: 98.07, Val. HD95: 25.31, Val. ASSD: 4.99, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 32 - Loss: 0.0122 - L_BS: 0.0140 - C_Loc: 0.0120 - Beta: 0.10 - Dice: 97.41, Prec: 97.50, Rec: 97.80, HD95: 22.18, ASSD: 3.89, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0087, L_BS: 0.0099, C_Loc: 0.0086, Val. DSC: 98.01, Val. Precision: 98.49, Val. Recall: 97.75, Val. HD95: 15.78, Val. ASSD: 3.31, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 33 - Loss: 0.0097 - L_BS: 0.0113 - C_Loc: 0.0096 - Beta: 0.10 - Dice: 97.76, Prec: 97.79, Rec: 97.95, HD95: 23.43, ASSD: 3.92, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0078, L_BS: 0.0106, C_Loc: 0.0075, Val. DSC: 97.96, Val. Precision: 98.45, Val. Recall: 97.74, Val. HD95: 15.31, Val. ASSD: 3.06, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Epoch 34 - Loss: 0.0120 - L_BS: 0.0153 - C_Loc: 0.0116 - Beta: 0.10 - Dice: 97.31, Prec: 97.35, Rec: 97.98, HD95: 24.08, ASSD: 4.15, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0111, L_BS: 0.0151, C_Loc: 0.0107, Val. DSC: 96.79, Val. Precision: 96.79, Val. Recall: 97.54, Val. HD95: 34.04, Val. ASSD: 5.60, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 35 - Loss: 0.0091 - L_BS: 0.0117 - C_Loc: 0.0088 - Beta: 0.10 - Dice: 97.92, Prec: 97.98, Rec: 98.24, HD95: 20.56, ASSD: 3.50, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0078, L_BS: 0.0097, C_Loc: 0.0075, Val. DSC: 98.10, Val. Precision: 97.83, Val. Recall: 98.73, Val. HD95: 17.94, Val. ASSD: 3.50, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!Model saved successfully!
+Model saved successfully!
+
+Model saved successfully!
+Epoch 36 - Loss: 0.0116 - L_BS: 0.0139 - C_Loc: 0.0113 - Beta: 0.10 - Dice: 97.42, Prec: 97.45, Rec: 97.99, HD95: 22.63, ASSD: 3.96, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0063, L_BS: 0.0086, C_Loc: 0.0060, Val. DSC: 98.39, Val. Precision: 97.89, Val. Recall: 99.10, Val. HD95: 15.82, Val. ASSD: 3.21, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!Model saved successfully!
+
+Model saved successfully!
+Model saved successfully!
+Epoch 37 - Loss: 0.0108 - L_BS: 0.0133 - C_Loc: 0.0105 - Beta: 0.10 - Dice: 97.55, Prec: 97.87, Rec: 97.68, HD95: 20.39, ASSD: 3.67, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0070, L_BS: 0.0089, C_Loc: 0.0068, Val. DSC: 98.36, Val. Precision: 98.39, Val. Recall: 98.65, Val. HD95: 8.48, Val. ASSD: 2.04, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 38 - Loss: 0.0147 - L_BS: 0.0207 - C_Loc: 0.0140 - Beta: 0.10 - Dice: 96.54, Prec: 96.72, Rec: 97.54, HD95: 25.96, ASSD: 4.51, IPE: 0.10, Mem: 10.40
+Val. Loss: 0.0122, L_BS: 0.0136, C_Loc: 0.0121, Val. DSC: 97.20, Val. Precision: 97.10, Val. Recall: 97.80, Val. HD95: 30.18, Val. ASSD: 5.10, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 39 - Loss: 0.0124 - L_BS: 0.0157 - C_Loc: 0.0121 - Beta: 0.10 - Dice: 97.15, Prec: 97.36, Rec: 97.60, HD95: 21.80, ASSD: 3.96, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0095, L_BS: 0.0125, C_Loc: 0.0091, Val. DSC: 97.55, Val. Precision: 98.04, Val. Recall: 97.23, Val. HD95: 23.56, Val. ASSD: 4.15, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 40 - Loss: 0.0125 - L_BS: 0.0156 - C_Loc: 0.0122 - Beta: 0.10 - Dice: 97.16, Prec: 97.35, Rec: 97.76, HD95: 24.17, ASSD: 4.07, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0072, L_BS: 0.0090, C_Loc: 0.0070, Val. DSC: 98.24, Val. Precision: 98.21, Val. Recall: 98.42, Val. HD95: 17.55, Val. ASSD: 3.43, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 41 - Loss: 0.0156 - L_BS: 0.0171 - C_Loc: 0.0155 - Beta: 0.10 - Dice: 96.58, Prec: 96.92, Rec: 97.05, HD95: 28.64, ASSD: 5.10, IPE: 0.10, Mem: 10.40
+Val. Loss: 0.0120, L_BS: 0.0138, C_Loc: 0.0118, Val. DSC: 97.18, Val. Precision: 96.56, Val. Recall: 98.19, Val. HD95: 26.88, Val. ASSD: 5.16, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 42 - Loss: 0.0142 - L_BS: 0.0155 - C_Loc: 0.0141 - Beta: 0.10 - Dice: 97.01, Prec: 97.11, Rec: 97.51, HD95: 28.98, ASSD: 4.86, IPE: 0.10, Mem: 10.40
+Val. Loss: 0.0076, L_BS: 0.0094, C_Loc: 0.0074, Val. DSC: 98.24, Val. Precision: 97.86, Val. Recall: 98.77, Val. HD95: 15.32, Val. ASSD: 3.49, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 43 - Loss: 0.0109 - L_BS: 0.0130 - C_Loc: 0.0106 - Beta: 0.10 - Dice: 97.61, Prec: 97.72, Rec: 98.06, HD95: 21.27, ASSD: 3.64, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0046, L_BS: 0.0070, C_Loc: 0.0044, Val. DSC: 98.73, Val. Precision: 98.74, Val. Recall: 98.83, Val. HD95: 9.50, Val. ASSD: 2.38, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!Model saved successfully!
+
+Model saved successfully!
+Model saved successfully!
+Epoch 44 - Loss: 0.0082 - L_BS: 0.0094 - C_Loc: 0.0081 - Beta: 0.10 - Dice: 98.19, Prec: 98.26, Rec: 98.38, HD95: 16.70, ASSD: 2.95, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0049, L_BS: 0.0070, C_Loc: 0.0047, Val. DSC: 98.76, Val. Precision: 98.47, Val. Recall: 99.24, Val. HD95: 9.29, Val. ASSD: 2.84, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 45 - Loss: 0.0058 - L_BS: 0.0073 - C_Loc: 0.0056 - Beta: 0.10 - Dice: 98.69, Prec: 98.77, Rec: 98.67, HD95: 15.55, ASSD: 2.64, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0041, L_BS: 0.0063, C_Loc: 0.0039, Val. DSC: 98.88, Val. Precision: 98.96, Val. Recall: 98.89, Val. HD95: 8.87, Val. ASSD: 2.06, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!Model saved successfully!
+
+Model saved successfully!
+Model saved successfully!
+Epoch 46 - Loss: 0.0073 - L_BS: 0.0098 - C_Loc: 0.0071 - Beta: 0.10 - Dice: 98.26, Prec: 98.37, Rec: 98.48, HD95: 15.72, ASSD: 2.89, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0048, L_BS: 0.0066, C_Loc: 0.0046, Val. DSC: 98.81, Val. Precision: 98.78, Val. Recall: 98.92, Val. HD95: 9.66, Val. ASSD: 2.09, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 47 - Loss: 0.0078 - L_BS: 0.0098 - C_Loc: 0.0076 - Beta: 0.10 - Dice: 98.33, Prec: 98.43, Rec: 98.58, HD95: 14.88, ASSD: 2.62, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0044, L_BS: 0.0066, C_Loc: 0.0042, Val. DSC: 98.85, Val. Precision: 98.86, Val. Recall: 98.96, Val. HD95: 8.99, Val. ASSD: 2.14, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 48 - Loss: 0.0060 - L_BS: 0.0077 - C_Loc: 0.0058 - Beta: 0.10 - Dice: 98.69, Prec: 98.76, Rec: 98.83, HD95: 13.81, ASSD: 2.32, IPE: 0.08, Mem: 10.40
+Val. Loss: 0.0047, L_BS: 0.0067, C_Loc: 0.0044, Val. DSC: 98.77, Val. Precision: 98.57, Val. Recall: 99.14, Val. HD95: 10.47, Val. ASSD: 2.32, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 49 - Loss: 0.0076 - L_BS: 0.0107 - C_Loc: 0.0073 - Beta: 0.10 - Dice: 98.28, Prec: 98.23, Rec: 98.80, HD95: 16.25, ASSD: 2.82, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0048, L_BS: 0.0068, C_Loc: 0.0046, Val. DSC: 98.76, Val. Precision: 98.81, Val. Recall: 98.91, Val. HD95: 6.67, Val. ASSD: 1.60, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 50 - Loss: 0.0046 - L_BS: 0.0062 - C_Loc: 0.0045 - Beta: 0.10 - Dice: 98.91, Prec: 99.04, Rec: 98.88, HD95: 10.64, ASSD: 1.91, IPE: 0.08, Mem: 10.40
+Val. Loss: 0.0040, L_BS: 0.0062, C_Loc: 0.0037, Val. DSC: 98.86, Val. Precision: 98.72, Val. Recall: 99.14, Val. HD95: 8.91, Val. ASSD: 1.84, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Epoch 51 - Loss: 0.0069 - L_BS: 0.0106 - C_Loc: 0.0065 - Beta: 0.10 - Dice: 98.33, Prec: 98.38, Rec: 98.72, HD95: 13.94, ASSD: 2.54, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0046, L_BS: 0.0068, C_Loc: 0.0044, Val. DSC: 98.75, Val. Precision: 98.48, Val. Recall: 99.20, Val. HD95: 9.12, Val. ASSD: 2.01, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 52 - Loss: 0.0071 - L_BS: 0.0103 - C_Loc: 0.0067 - Beta: 0.10 - Dice: 98.40, Prec: 98.52, Rec: 98.70, HD95: 14.84, ASSD: 2.46, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0049, L_BS: 0.0068, C_Loc: 0.0047, Val. DSC: 98.79, Val. Precision: 98.79, Val. Recall: 99.00, Val. HD95: 8.91, Val. ASSD: 2.07, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 53 - Loss: 0.0067 - L_BS: 0.0101 - C_Loc: 0.0064 - Beta: 0.10 - Dice: 98.44, Prec: 98.45, Rec: 98.86, HD95: 13.45, ASSD: 2.35, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0056, L_BS: 0.0072, C_Loc: 0.0055, Val. DSC: 98.68, Val. Precision: 98.90, Val. Recall: 98.71, Val. HD95: 8.64, Val. ASSD: 1.87, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 54 - Loss: 0.0066 - L_BS: 0.0083 - C_Loc: 0.0064 - Beta: 0.10 - Dice: 98.52, Prec: 98.66, Rec: 98.64, HD95: 14.56, ASSD: 2.57, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0057, L_BS: 0.0075, C_Loc: 0.0055, Val. DSC: 98.63, Val. Precision: 98.48, Val. Recall: 99.12, Val. HD95: 11.74, Val. ASSD: 2.61, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 55 - Loss: 0.0051 - L_BS: 0.0068 - C_Loc: 0.0049 - Beta: 0.10 - Dice: 98.88, Prec: 99.01, Rec: 98.92, HD95: 9.72, ASSD: 1.68, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0045, L_BS: 0.0064, C_Loc: 0.0043, Val. DSC: 98.80, Val. Precision: 98.56, Val. Recall: 99.29, Val. HD95: 8.47, Val. ASSD: 1.88, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 56 - Loss: 0.0060 - L_BS: 0.0095 - C_Loc: 0.0057 - Beta: 0.10 - Dice: 98.58, Prec: 98.68, Rec: 98.89, HD95: 11.58, ASSD: 2.05, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0044, L_BS: 0.0065, C_Loc: 0.0041, Val. DSC: 98.79, Val. Precision: 98.49, Val. Recall: 99.26, Val. HD95: 10.86, Val. ASSD: 2.15, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 57 - Loss: 0.0046 - L_BS: 0.0074 - C_Loc: 0.0043 - Beta: 0.10 - Dice: 98.92, Prec: 99.01, Rec: 99.08, HD95: 7.24, ASSD: 1.36, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0035, L_BS: 0.0055, C_Loc: 0.0033, Val. DSC: 98.98, Val. Precision: 99.02, Val. Recall: 99.01, Val. HD95: 7.72, Val. ASSD: 1.44, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!
+Model saved successfully!Model saved successfully!
+
+Model saved successfully!
+Epoch 58 - Loss: 0.0056 - L_BS: 0.0081 - C_Loc: 0.0054 - Beta: 0.10 - Dice: 98.72, Prec: 98.74, Rec: 98.98, HD95: 11.05, ASSD: 2.05, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0038, L_BS: 0.0061, C_Loc: 0.0036, Val. DSC: 98.86, Val. Precision: 98.95, Val. Recall: 98.92, Val. HD95: 9.13, Val. ASSD: 1.69, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 59 - Loss: 0.0068 - L_BS: 0.0092 - C_Loc: 0.0065 - Beta: 0.10 - Dice: 98.50, Prec: 98.70, Rec: 98.68, HD95: 14.07, ASSD: 2.39, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0050, L_BS: 0.0068, C_Loc: 0.0048, Val. DSC: 98.69, Val. Precision: 98.92, Val. Recall: 98.62, Val. HD95: 8.76, Val. ASSD: 1.86, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 60 - Loss: 0.0049 - L_BS: 0.0075 - C_Loc: 0.0046 - Beta: 0.10 - Dice: 98.76, Prec: 98.73, Rec: 98.99, HD95: 11.06, ASSD: 2.03, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0042, L_BS: 0.0063, C_Loc: 0.0040, Val. DSC: 98.84, Val. Precision: 98.60, Val. Recall: 99.17, Val. HD95: 10.90, Val. ASSD: 2.36, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 61 - Loss: 0.0056 - L_BS: 0.0091 - C_Loc: 0.0052 - Beta: 0.10 - Dice: 98.69, Prec: 98.77, Rec: 98.99, HD95: 9.04, ASSD: 1.72, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0035, L_BS: 0.0055, C_Loc: 0.0032, Val. DSC: 98.98, Val. Precision: 98.96, Val. Recall: 99.09, Val. HD95: 7.99, Val. ASSD: 1.62, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!
+Model saved successfully!Model saved successfully!
+
+Model saved successfully!
+Epoch 62 - Loss: 0.0040 - L_BS: 0.0062 - C_Loc: 0.0037 - Beta: 0.10 - Dice: 99.08, Prec: 99.18, Rec: 99.13, HD95: 9.16, ASSD: 1.58, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0039, L_BS: 0.0059, C_Loc: 0.0037, Val. DSC: 98.89, Val. Precision: 98.92, Val. Recall: 98.99, Val. HD95: 8.50, Val. ASSD: 1.68, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 63 - Loss: 0.0045 - L_BS: 0.0072 - C_Loc: 0.0042 - Beta: 0.10 - Dice: 98.93, Prec: 98.98, Rec: 99.14, HD95: 8.54, ASSD: 1.66, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0038, L_BS: 0.0056, C_Loc: 0.0036, Val. DSC: 98.94, Val. Precision: 98.85, Val. Recall: 99.12, Val. HD95: 8.49, Val. ASSD: 1.67, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 64 - Loss: 0.0043 - L_BS: 0.0063 - C_Loc: 0.0041 - Beta: 0.10 - Dice: 99.00, Prec: 99.12, Rec: 99.05, HD95: 8.64, ASSD: 1.60, IPE: 0.08, Mem: 10.40
+Val. Loss: 0.0035, L_BS: 0.0056, C_Loc: 0.0032, Val. DSC: 98.97, Val. Precision: 98.83, Val. Recall: 99.22, Val. HD95: 8.11, Val. ASSD: 1.86, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Epoch 65 - Loss: 0.0053 - L_BS: 0.0097 - C_Loc: 0.0049 - Beta: 0.10 - Dice: 98.69, Prec: 98.74, Rec: 99.13, HD95: 9.18, ASSD: 1.61, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0036, L_BS: 0.0057, C_Loc: 0.0033, Val. DSC: 98.96, Val. Precision: 99.00, Val. Recall: 99.02, Val. HD95: 7.36, Val. ASSD: 1.49, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 66 - Loss: 0.0039 - L_BS: 0.0063 - C_Loc: 0.0036 - Beta: 0.10 - Dice: 99.06, Prec: 99.12, Rec: 99.13, HD95: 9.73, ASSD: 1.65, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0034, L_BS: 0.0055, C_Loc: 0.0032, Val. DSC: 99.00, Val. Precision: 98.92, Val. Recall: 99.16, Val. HD95: 6.21, Val. ASSD: 1.40, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!
+Model saved successfully!Model saved successfully!
+
+Model saved successfully!
+Epoch 67 - Loss: 0.0049 - L_BS: 0.0079 - C_Loc: 0.0045 - Beta: 0.10 - Dice: 98.81, Prec: 98.85, Rec: 99.03, HD95: 9.63, ASSD: 1.73, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0032, L_BS: 0.0055, C_Loc: 0.0029, Val. DSC: 99.04, Val. Precision: 99.13, Val. Recall: 98.99, Val. HD95: 5.64, Val. ASSD: 1.37, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!
+Model saved successfully!Model saved successfully!
+
+Model saved successfully!
+Epoch 68 - Loss: 0.0046 - L_BS: 0.0072 - C_Loc: 0.0044 - Beta: 0.10 - Dice: 98.95, Prec: 99.01, Rec: 99.13, HD95: 9.16, ASSD: 1.58, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0031, L_BS: 0.0052, C_Loc: 0.0029, Val. DSC: 99.10, Val. Precision: 99.02, Val. Recall: 99.26, Val. HD95: 7.59, Val. ASSD: 1.55, Val. IPE: 0.05, Val. Mem: 2.81
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Model saved successfully!
+Epoch 69 - Loss: 0.0041 - L_BS: 0.0067 - C_Loc: 0.0038 - Beta: 0.10 - Dice: 99.06, Prec: 99.12, Rec: 99.25, HD95: 7.35, ASSD: 1.34, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0032, L_BS: 0.0053, C_Loc: 0.0029, Val. DSC: 99.08, Val. Precision: 99.03, Val. Recall: 99.21, Val. HD95: 6.96, Val. ASSD: 1.46, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 70 - Loss: 0.0035 - L_BS: 0.0056 - C_Loc: 0.0033 - Beta: 0.10 - Dice: 99.20, Prec: 99.24, Rec: 99.27, HD95: 7.80, ASSD: 1.36, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0036, L_BS: 0.0057, C_Loc: 0.0034, Val. DSC: 98.99, Val. Precision: 98.88, Val. Recall: 99.28, Val. HD95: 7.58, Val. ASSD: 1.57, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 71 - Loss: 0.0040 - L_BS: 0.0068 - C_Loc: 0.0037 - Beta: 0.10 - Dice: 99.04, Prec: 99.10, Rec: 99.23, HD95: 7.10, ASSD: 1.33, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0036, L_BS: 0.0057, C_Loc: 0.0034, Val. DSC: 98.98, Val. Precision: 98.73, Val. Recall: 99.37, Val. HD95: 8.26, Val. ASSD: 1.81, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 72 - Loss: 0.0046 - L_BS: 0.0078 - C_Loc: 0.0042 - Beta: 0.10 - Dice: 98.96, Prec: 99.01, Rec: 99.26, HD95: 7.64, ASSD: 1.36, IPE: 0.08, Mem: 10.40
+Val. Loss: 0.0032, L_BS: 0.0054, C_Loc: 0.0029, Val. DSC: 99.06, Val. Precision: 99.15, Val. Recall: 99.03, Val. HD95: 5.66, Val. ASSD: 1.37, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 73 - Loss: 0.0047 - L_BS: 0.0076 - C_Loc: 0.0043 - Beta: 0.10 - Dice: 98.88, Prec: 98.91, Rec: 99.09, HD95: 10.65, ASSD: 1.80, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0038, L_BS: 0.0062, C_Loc: 0.0035, Val. DSC: 98.91, Val. Precision: 98.40, Val. Recall: 99.53, Val. HD95: 8.32, Val. ASSD: 1.91, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 74 - Loss: 0.0041 - L_BS: 0.0059 - C_Loc: 0.0039 - Beta: 0.10 - Dice: 99.12, Prec: 99.18, Rec: 99.19, HD95: 6.78, ASSD: 1.26, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0034, L_BS: 0.0055, C_Loc: 0.0032, Val. DSC: 98.99, Val. Precision: 98.82, Val. Recall: 99.29, Val. HD95: 8.37, Val. ASSD: 1.63, Val. IPE: 0.06, Val. Mem: 2.81
+Epoch 75 - Loss: 0.0042 - L_BS: 0.0067 - C_Loc: 0.0039 - Beta: 0.10 - Dice: 99.06, Prec: 99.12, Rec: 99.24, HD95: 6.10, ASSD: 1.18, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0035, L_BS: 0.0058, C_Loc: 0.0032, Val. DSC: 98.94, Val. Precision: 98.90, Val. Recall: 99.12, Val. HD95: 7.82, Val. ASSD: 1.49, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 76 - Loss: 0.0053 - L_BS: 0.0103 - C_Loc: 0.0048 - Beta: 0.10 - Dice: 98.72, Prec: 98.79, Rec: 99.23, HD95: 8.51, ASSD: 1.39, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0033, L_BS: 0.0056, C_Loc: 0.0030, Val. DSC: 98.98, Val. Precision: 98.93, Val. Recall: 99.13, Val. HD95: 5.69, Val. ASSD: 1.40, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 77 - Loss: 0.0035 - L_BS: 0.0057 - C_Loc: 0.0033 - Beta: 0.10 - Dice: 99.18, Prec: 99.23, Rec: 99.25, HD95: 7.22, ASSD: 1.32, IPE: 0.08, Mem: 10.40
+Val. Loss: 0.0035, L_BS: 0.0057, C_Loc: 0.0032, Val. DSC: 98.97, Val. Precision: 98.80, Val. Recall: 99.27, Val. HD95: 7.18, Val. ASSD: 1.49, Val. IPE: 0.05, Val. Mem: 2.81
+Epoch 78 - Loss: 0.0036 - L_BS: 0.0056 - C_Loc: 0.0033 - Beta: 0.10 - Dice: 99.20, Prec: 99.25, Rec: 99.26, HD95: 7.00, ASSD: 1.27, IPE: 0.09, Mem: 10.40
+Val. Loss: 0.0032, L_BS: 0.0055, C_Loc: 0.0030, Val. DSC: 99.00, Val. Precision: 98.92, Val. Recall: 99.18, Val. HD95: 5.51, Val. ASSD: 1.26, Val. IPE: 0.05, Val. Mem: 2.81
+Early stopping triggered!
+Testing on easy samples
+Testing on easy samples
+Testing on easy samplesTesting on easy samples
+
+Te. Loss: 0.0041 | L_BS: 0.0049 | C_Loc: 0.0040 | Beta: 0.10 | DSC: 99.14% | Precision: 99.21% | Recall: 99.09% | HD95: 8.06 px | ASSD: 1.43 px | IPE: 0.97 s/b | Mem: 5.14 GB/b | FLOPs: 218.10 G/b
+[Tue 19 May 2026 12:46:48 -05] Training complete.
