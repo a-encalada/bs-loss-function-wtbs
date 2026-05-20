@@ -534,8 +534,8 @@ def main():
     # --------- CONFIG ---------
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     #base_dir = "/home/angel.encalada/Documents/WTBSegmentation/dataset/Dataset"
-    base_dir = "/home/angel.encalada/Documents/WTBSegmentation/dataset/Blade30"
-    models_dir = "/home/angel.encalada/Documents/WTBSegmentation/Coding/Pretraining"  # <- change if needed
+    base_dir = "/home/angel.encalada/Documents/ESPOL/Research/WTBSegmentation/Datasets/Blade30"
+    models_dir = "/home/angel.encalada/DocumentsESPOL/Research/WTBSegmentation/bs-loss-function-wtbs/Pretraining"  # <- change if needed
     size = 512
     num_classes = 2
     batch_size = 1  # we just need 1 sample for visualization
