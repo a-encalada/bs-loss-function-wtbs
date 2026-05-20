@@ -561,7 +561,7 @@ class LocationConstraint(torch.nn.Module):
         return loss
 
 class BSL_LC(torch.nn.Module):
-    def __init__(self, alpha=0.8, beta=0.4, threshold=0.5, kernel_size=2):
+    def __init__(self, alpha=0.8, beta=1.0, threshold=0.5, kernel_size=2):
         super().__init__()
         self.bs_loss = BSLoss(alpha=alpha, threshold=threshold, kernel_size=kernel_size)
         self.loc = LocationConstraint()
@@ -1019,7 +1019,7 @@ def main():
     # Transforms
     size = 512
     batch_size = 4
-    lf_name = 'BS+C_b040'
+    lf_name = 'BS+C_b100'
 
     # Load data (your prepare_data function)
     # train_images, train_masks, val_images, val_masks, test_images_c, test_masks_c, test_images_u, test_masks_u = prepare_data(
