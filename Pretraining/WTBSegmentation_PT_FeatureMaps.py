@@ -535,7 +535,7 @@ def main():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     #base_dir = "/home/angel.encalada/Documents/WTBSegmentation/dataset/Dataset"
     base_dir = "/home/angel.encalada/Documents/ESPOL/Research/WTBSegmentation/Datasets/Blade30"
-    models_dir = "/home/angel.encalada/DocumentsESPOL/Research/WTBSegmentation/bs-loss-function-wtbs/Pretraining"  # <- change if needed
+    models_dir = "/home/angel.encalada/Documents/ESPOL/Research/WTBSegmentation/bs-loss-function-wtbs/Pretraining"  # <- change if needed
     size = 512
     num_classes = 2
     batch_size = 1  # we just need 1 sample for visualization
@@ -585,7 +585,8 @@ def main():
         tag = m.group(1) if m else fname
         
         # NEW VALIDATION FOR EWSHM 2026
-        if tag in ['Focal', 'BCE+Dice', 'Distance', 'HD+Dice', 'B+Dice', 'BS+C_b090']:
+        #if tag in ['Focal', 'BCE+Dice', 'Distance', 'HD+Dice', 'B+Dice', 'BS+C_b090']:
+        if '_b' in tag:     
 
             print(f"Loading model: {fname} (tag: {tag})")
             
@@ -715,10 +716,14 @@ def main():
         elif tag=='BCE+BS+C+FI':
             txt = r'$\mathcal{L}_{BCE}+\mathcal{L}_{BS}+\beta\cdot (C_{Loc}+FI)$'
         #for EWSHM only
-        elif tag=='BS+C_b050':
-            txt = r'$\beta \cdot \mathcal{L}_{BS} + (1-\beta) \cdot \frac{1}{\lambda} \cdot C_{Loc}$' + '\n' + r'$\beta=0.50$'
-        elif tag=='BS+C_b090':
-            txt = r'$\beta \cdot \mathcal{L}_{BS} + (1-\beta) \cdot \frac{1}{\lambda} \cdot C_{Loc}$' + '\n' + r'$\beta=0.90$'
+        # elif tag=='BS+C_b050':
+        #     txt = r'$\beta \cdot \mathcal{L}_{BS} + (1-\beta) \cdot \frac{1}{\lambda} \cdot C_{Loc}$' + '\n' + r'$\beta=0.50$'
+        # elif tag=='BS+C_b090':
+        #     txt = r'$\beta \cdot \mathcal{L}_{BS} + (1-\beta) \cdot \frac{1}{\lambda} \cdot C_{Loc}$' + '\n' + r'$\beta=0.90$'
+        
+        elif '_b' in tag:
+            num = tag.split('_')[1][1:]
+            txt = r'$\beta \cdot \mathcal{L}_{BS} + (1-\beta) \cdot \frac{1}{\lambda} \cdot C_{Loc}$' + '\n' + rf'$\beta={num[0]}.{num[1:]}$'
             
         axm.text(
             0.05, 0.5,

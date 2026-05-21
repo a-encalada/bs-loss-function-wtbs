@@ -1,0 +1,14 @@
+[Thu 21 May 2026 03:05:53 -05] Starting plotting on compute-0-2.hpc.cedia.edu.ec...
+Loading model: WTBSegmentationModel_PT_BS+C_b000_E98.pth (tag: BS+C_b000)
+Loading model: WTBSegmentationModel_PT_BS+C_b010_E68.pth (tag: BS+C_b010)
+Loading model: WTBSegmentationModel_PT_BS+C_b020_E127.pth (tag: BS+C_b020)
+Loading model: WTBSegmentationModel_PT_BS+C_b030_E60.pth (tag: BS+C_b030)
+Loading model: WTBSegmentationModel_PT_BS+C_b040_E111.pth (tag: BS+C_b040)
+Loading model: WTBSegmentationModel_PT_BS+C_b050_E79.pth (tag: BS+C_b050)
+Loading model: WTBSegmentationModel_PT_BS+C_b060_E75.pth (tag: BS+C_b060)
+Loading model: WTBSegmentationModel_PT_BS+C_b070_E71.pth (tag: BS+C_b070)
+Loading model: WTBSegmentationModel_PT_BS+C_b080_E73.pth (tag: BS+C_b080)
+Loading model: WTBSegmentationModel_PT_BS+C_b090_E74.pth (tag: BS+C_b090)
+Loading model: WTBSegmentationModel_PT_BS+C_b100_E73.pth (tag: BS+C_b100)
+Saved visualization to WTBSegmentation_PT_FeatureMaps.png
+[Thu 21 May 2026 03:08:40 -05] Plotting complete.

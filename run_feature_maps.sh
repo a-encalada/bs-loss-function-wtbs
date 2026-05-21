@@ -4,7 +4,7 @@
 #SBATCH --cpus-per-task=128
 #SBATCH --mem=256G
 #SBATCH --time=24:00:00
-#SBATCH --job-name=wtbs
+#SBATCH --job-name=wtbs-fm
 #SBATCH --output=/home/angel.encalada/Documents/ESPOL/Research/WTBSegmentation/bs-loss-function-wtbs/Pretraining/logs/runs/%x_%j.out
 #SBATCH --error=/home/angel.encalada/Documents/ESPOL/Research/WTBSegmentation/bs-loss-function-wtbs/Pretraining/logs/runs/%x_%j.err
 
@@ -38,7 +38,7 @@ source ~/anaconda3/etc/profile.d/conda.sh
 cd ${SCRIPT_DIR}
 
 echo "[$(date)] Starting plotting on $(hostname)..."
-python3 "WTBSegmentation_PT_FeatureMaps.py"
+python "WTBSegmentation_PT_FeatureMaps.py"
 
 echo "[$(date)] Plotting complete."
 
